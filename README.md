@@ -12,4 +12,3 @@ MIT, see [LICENSE.md](https://github.com/vaalentin/repos-boilerplate/blob/master
 
 ## Credits
 
-Thanks to the amazing [stackgl](http://stack.gl/) for the inspiration.
