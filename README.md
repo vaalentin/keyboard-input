@@ -20,6 +20,8 @@ const keyboard = new KeyboardInput();
 if(keyboard.isPressed(ESC)) {
   // esc is pressed
 }
+```
+
 ## API
 
 #### `input = new KeyboardInput()`
