@@ -1,7 +1,7 @@
 {
-  "name": "repos-boilerplate",
+  "name": "keyboard-input",
   "version": "1.0.0",
-  "description": "Small es6 repos boilerplate.",
+  "description": "Simple keyboard input for use in a game loop",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm run build",
@@ -9,18 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaalentin/repos-boilerplate.git"
+    "url": "git+https://github.com/vaalentin/keyboard-input.git"
   },
   "keywords": [
-    "es6",
-    "boilerplate"
+    "keyboard"
   ],
   "author": "vaalentin <vaalentin@protonmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vaalentin/repos-boilerplate/issues"
+    "url": "https://github.com/vaalentin/keyboard-input/issues"
   },
-  "homepage": "https://github.com/vaalentin/repos-boilerplate#readme",
+  "homepage": "https://github.com/vaalentin/keyboard-input#readme",
   "devDependencies": {
     "babel-cli": "^6.4.0",
     "babel-preset-es2015": "^6.3.13"
